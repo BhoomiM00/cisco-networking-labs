@@ -128,10 +128,10 @@ This practical helped in understanding physical network topologies, identifying 
 
 ### 10.2 Wiring Connections
 
-![Lab Instructions](screenshots/wiring.png)
+![Wiring Connection](screenshots/wiring.png)
 
 ### 10.3 Verification That Device is Active
 
 <!-- Add a screenshot of your completed Packet Tracer topology here. -->
 
-![Completed Network Topology](screenshots/active.png)
+![Active Device](screenshots/active.png)
